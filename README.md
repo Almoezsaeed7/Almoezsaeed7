@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Almoezsaeed
-- 👀 I’m interested in ... Wev and AI
+- 👀 I’m interested in ... Web and AI
 - 🌱 I’m currently learning ... CS50x and CS50P
 - 💞️ I’m looking to collaborate on ... all kinds of projects
 - 📫 How to reach me ... almoezsaeed7@gmail.com
